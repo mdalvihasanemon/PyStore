@@ -40,7 +40,7 @@ Welcome to **PyStore**, your go-to hub for everything Python! This repository is
 ## 📂 Repository Structure
 
 ```
-PyVault/
+Alvi PyStore/
 ├── Basics/             # Fundamental Python scripts
 ├── Projects/           # End-to-end Python projects
 ├── Utilities/          # Standalone utility scripts
